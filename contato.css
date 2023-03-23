@@ -6,7 +6,7 @@
 }
 
 body{
-    background:  url(/img/fundo.jpeg);
+    background:  url(img/fundo.jpeg);
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
